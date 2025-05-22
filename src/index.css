@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Config";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./assets/fonts/config-regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Config";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./assets/fonts/config-medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Config";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./assets/fonts/config-bold.otf") format("opentype");
+}
+
+@theme {
+  --color-blizzardbg: #004da7;
+  --color-blizzardcta: #f06414;
+  --font-sans: "Config", "sans-serif";
+}
+
+::selection {
+  color: white;
+  background: var(--color-blizzardcta);
+  opacity: 0.7;
+}

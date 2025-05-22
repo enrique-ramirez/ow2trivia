@@ -1,0 +1,101 @@
+import { MiscelaneousFacts } from "./heroes/misc";
+import { AnaFacts } from "./heroes/Ana";
+import { AsheFacts } from "./heroes/Ashe";
+import { BaptisteFacts } from "./heroes/Baptiste";
+import { BastionFacts } from "./heroes/Bastion";
+import { BrigitteFacts } from "./heroes/Brigitte";
+import { CassidyFacts } from "./heroes/Cassidy";
+import { DoomfistFacts } from "./heroes/Doomfist";
+import { DvaFacts } from "./heroes/Dva";
+import { EchoFacts } from "./heroes/Echo";
+import { FrejaFacts } from "./heroes/Freja";
+import { GenjiFacts } from "./heroes/Genji";
+import { HanzoFacts } from "./heroes/Hanzo";
+import { HazardFacts } from "./heroes/Hazard";
+import { IllariFacts } from "./heroes/Illari";
+import { JunkerQueenFacts } from "./heroes/JunkerQueen";
+import { JunkratFacts } from "./heroes/Junkrat";
+import { JunoFacts } from "./heroes/Juno";
+import { KirikoFacts } from "./heroes/Kiriko";
+import { LifeweaverFacts } from "./heroes/Lifeweaver";
+import { LucioFacts } from "./heroes/Lucio";
+import { MaugaFacts } from "./heroes/Mauga";
+import { MeiFacts } from "./heroes/Mei";
+import { MercyFacts } from "./heroes/Mercy";
+import { MoiraFacts } from "./heroes/Moira";
+import { OrisaFacts } from "./heroes/Orisa";
+import { PharahFacts } from "./heroes/Pharah";
+import { RamattraFacts } from "./heroes/Ramattra";
+import { ReaperFacts } from "./heroes/Reaper";
+import { ReinhardtFacts } from "./heroes/Reinhardt";
+import { RoadhogFacts } from "./heroes/Roadhog";
+import { SigmaFacts } from "./heroes/Sigma";
+import { SojournFacts } from "./heroes/Sojourn";
+import { Soldier76Facts } from "./heroes/Soldier76";
+import { SombraFacts } from "./heroes/Sombra";
+import { SymmetraFacts } from "./heroes/Symmetra";
+import { TorbjornFacts } from "./heroes/Torbjorn";
+import { TracerFacts } from "./heroes/Tracer";
+import { VentureFacts } from "./heroes/Venture";
+import { WidowmakerFacts } from "./heroes/Widowmaker";
+import { WinstonFacts } from "./heroes/Winston";
+import { WreckingBallFacts } from "./heroes/WreckingBall";
+import { ZaryaFacts } from "./heroes/Zarya";
+import { ZenyattaFacts } from "./heroes/Zenyatta";
+
+import type { HeroesNames } from "./heroes";
+
+type Fact = {
+  hero?: HeroesNames;
+  description: string;
+};
+
+const Facts: Fact[] = [
+  ...MiscelaneousFacts,
+  ...AnaFacts,
+  ...AsheFacts,
+  ...BaptisteFacts,
+  ...BastionFacts,
+  ...BrigitteFacts,
+  ...CassidyFacts,
+  ...DoomfistFacts,
+  ...DvaFacts,
+  ...EchoFacts,
+  ...FrejaFacts,
+  ...GenjiFacts,
+  ...HanzoFacts,
+  ...HazardFacts,
+  ...IllariFacts,
+  ...JunkerQueenFacts,
+  ...JunkratFacts,
+  ...JunoFacts,
+  ...KirikoFacts,
+  ...LifeweaverFacts,
+  ...LucioFacts,
+  ...MaugaFacts,
+  ...MeiFacts,
+  ...MercyFacts,
+  ...MoiraFacts,
+  ...OrisaFacts,
+  ...PharahFacts,
+  ...RamattraFacts,
+  ...ReaperFacts,
+  ...ReinhardtFacts,
+  ...RoadhogFacts,
+  ...SigmaFacts,
+  ...SojournFacts,
+  ...Soldier76Facts,
+  ...SombraFacts,
+  ...SymmetraFacts,
+  ...TorbjornFacts,
+  ...TracerFacts,
+  ...VentureFacts,
+  ...WidowmakerFacts,
+  ...WinstonFacts,
+  ...WreckingBallFacts,
+  ...ZaryaFacts,
+  ...ZenyattaFacts,
+] as const;
+
+export { Facts };
+export type { Fact };
