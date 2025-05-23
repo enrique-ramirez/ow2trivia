@@ -1,6 +1,7 @@
 import { createContext, useReducer } from "react";
 import { toastReducer } from "../reducers/toastReducer";
-import type { AddToast, DeleteToast, State } from "../reducers/toastReducer";
+
+import type { Actions, State } from "../reducers/toastReducer";
 import type { Dispatch } from "react";
 
 const initialState: State = {
@@ -9,7 +10,7 @@ const initialState: State = {
 
 const ToastContext = createContext<{
   state: State;
-  dispatch: Dispatch<AddToast | DeleteToast>;
+  dispatch: Dispatch<Actions>;
 }>({
   state: initialState,
   dispatch: () => null,

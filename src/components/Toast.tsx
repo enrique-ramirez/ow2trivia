@@ -1,7 +1,8 @@
 import { useEffect, useRef } from "react";
-import { useToast } from "../hooks/useToast";
-import type { Toast as ToastProps } from "../reducers/toastReducer";
 import { ToastProgress } from "./ToastProgress";
+import { useToast } from "../hooks/useToast";
+
+import type { Toast as ToastProps } from "../reducers/toastReducer";
 
 function Toast({ message, id }: ToastProps) {
   const timeoutId = useRef<ReturnType<typeof setTimeout> | null>(null);

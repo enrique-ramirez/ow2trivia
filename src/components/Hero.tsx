@@ -1,5 +1,6 @@
 import { Heroes } from "../data/heroes";
 import { useHeroImg } from "../hooks/useHeroImg";
+
 import type { HeroesNames } from "../data/heroes";
 
 type HeroProps = {

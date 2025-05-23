@@ -1,3 +1,4 @@
+import { Actions } from "./components/Actions";
 import { Fact } from "./components/Fact";
 import { ToastsContainer } from "./components/ToastsContainer";
 import { useToast } from "./hooks/useToast";
@@ -7,8 +8,9 @@ function App() {
 
   return (
     <>
-      <main className="m-auto max-w-4xl text-center">
+      <main className="m-auto max-w-4xl pt-8 text-center">
         <Fact />
+        <Actions />
       </main>
       <ToastsContainer toasts={toastsState.toasts} />
     </>

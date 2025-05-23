@@ -44,4 +44,4 @@ const toastReducer = (state: State, action: Actions) => {
 };
 
 export { toastReducer };
-export type { State, Toast, AddToast, DeleteToast };
+export type { State, Actions, Toast, AddToast, DeleteToast };
