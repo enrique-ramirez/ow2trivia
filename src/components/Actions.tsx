@@ -26,19 +26,19 @@ function Actions() {
   };
 
   return (
-    <div className="mt-4 mb-4 justify-between border-t-2 border-t-blue-900 pt-8 md:mt-12 md:mb-8 md:flex md:pt-12">
+    <div className="mt-10 mb-4 justify-between border-t-2 border-t-blue-900 pt-8 md:mt-12 md:mb-8 md:flex md:pt-12">
       <HeroSelector />
 
-      <div className="mt-4 flex flex-col md:mt-0 md:block">
+      <div className="mt-4 flex flex-row md:mt-0 md:block">
         <button
-          className="bg-blizzardcta mb-4 w-full cursor-pointer px-8 py-4 text-lg font-medium text-white uppercase opacity-90 hover:opacity-100 md:mb-0 md:w-auto md:text-2xl"
+          className="bg-blizzardcta mr-4 w-full cursor-pointer py-4 text-lg font-medium text-white uppercase opacity-90 hover:opacity-100 md:mr-0 md:mb-0 md:w-auto md:px-8 md:text-2xl"
           onClick={handleNewFact}
         >
           New Fact
         </button>
         {navigator?.clipboard && (
           <button
-            className="w-full cursor-pointer bg-white px-8 py-4 text-lg font-medium text-black uppercase opacity-90 hover:opacity-100 md:ml-4 md:w-auto md:text-2xl"
+            className="w-full cursor-pointer bg-white py-4 text-lg font-medium text-black uppercase opacity-90 hover:opacity-100 md:ml-4 md:w-auto md:px-8 md:text-2xl"
             onClick={handleCopy}
           >
             Copy to clipboard
