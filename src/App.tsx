@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <main className="m-auto max-w-4xl pt-8 text-center">
+      <main className="m-auto flex max-w-4xl flex-col p-8 md:p-0 md:pt-8">
         <Fact />
         <Actions />
       </main>

@@ -12,10 +12,10 @@ function HeroSelector() {
   };
 
   return (
-    <form className="">
+    <form>
       <select
         id="countries"
-        className="block w-57 rounded-lg border border-gray-300 bg-gray-50 p-4.5 font-medium text-gray-900 uppercase focus:border-blue-500 focus:ring-blue-500"
+        className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-4.5 font-medium text-gray-900 uppercase focus:border-blue-500 focus:ring-blue-500 md:w-57"
         onChange={handleChange}
         defaultValue="all"
       >
