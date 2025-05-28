@@ -19,12 +19,12 @@ const KirikoFacts: KirikoFact[] = [
   {
     hero: "Kiriko",
     description:
-      "Kiri means “mist“ and ko is a common female name suffix that means “child“.",
+      "Kiri means “mist“ and ko is a common female name suffix that means “child“. Hence, Kiriko could be roughly translated as Mist Child.",
   },
   {
     hero: "Kiriko",
     description:
-      "Kiriko's relationship with the Fex Spirit mimics that of Genji and Hanzo with the Shimada dragons.",
+      "Kiriko's relationship with the Fox Spirit mimics that of Genji and Hanzo with the Shimada dragons.",
   },
   {
     hero: "Kiriko",
