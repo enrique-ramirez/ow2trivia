@@ -16,6 +16,7 @@ function Hero({ name }: HeroProps) {
     <figure className="relative inline-flex flex-col overflow-hidden rounded-full border-2 border-white bg-white text-gray-900 md:static md:rounded-none">
       <img
         src={srcAvatar}
+        key={srcAvatar}
         alt={heroName}
         className="h-30 w-30 bg-[url('/src/assets/bg-card.jpg')] object-cover md:h-64 md:w-56"
       />

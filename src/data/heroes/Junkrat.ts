@@ -14,21 +14,21 @@ const JunkratFacts: JunkratFact[] = [
   {
     hero: "Junkrat",
     description:
-      "Junkrat is 6'5\" tall and weighs 155lbs. He appears shorter due to normally being hunched over",
+      "Junkrat is 6'5\" tall and weighs 155lbs. He appears shorter due to normally being hunched over.",
   },
   {
     hero: "Junkrat",
-    description: "Junkrat eats his own toenails",
-  },
-  {
-    hero: "Junkrat",
-    description:
-      "Junkrat keeps Milk Tea with Boba half sweetened in his canteen",
+    description: "Junkrat eats his own toenails.",
   },
   {
     hero: "Junkrat",
     description:
-      "Junkrat is a big fan of Wrecking Ball and was inspired to build his Rip-tire by watching him compete in the Scrapyard",
+      "Junkrat keeps Milk Tea with Boba half sweetened in his canteen.",
+  },
+  {
+    hero: "Junkrat",
+    description:
+      "Junkrat is a big fan of Wrecking Ball and was inspired to build his Rip-tire by watching him compete in the Scrapyard.",
   },
   {
     hero: "Junkrat",
