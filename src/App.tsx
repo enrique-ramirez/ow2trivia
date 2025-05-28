@@ -1,6 +1,7 @@
 import { Actions } from "./components/Actions";
 import { Fact } from "./components/Fact";
 import { ToastsContainer } from "./components/ToastsContainer";
+import { GithubLink } from "./components/GithubLink";
 import { useToast } from "./hooks/useToast";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
 
   return (
     <>
+      <GithubLink />
       <main className="m-auto flex max-w-4xl flex-col p-8 md:p-0 md:pt-8">
         <Fact />
         <Actions />
