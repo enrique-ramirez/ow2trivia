@@ -9,7 +9,7 @@ const JunoFacts: JunoFact[] = [
   {
     hero: "Juno",
     description:
-      "Juno is the first hero here their healing has a falloff range, meaning it becomes less efective at a distance.",
+      "Juno is the first hero whose healing has a falloff range, meaning it becomes less efective at a distance.",
   },
   {
     hero: "Juno",
