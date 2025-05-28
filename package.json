@@ -1,8 +1,12 @@
 {
-  "name": "ow2facts",
+  "name": "ow2trivia",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Enrique Ramírez",
+    "email": "me@enrique-ramirez.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
