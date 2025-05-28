@@ -14,7 +14,7 @@ const BastionFacts: BastionFact[] = [
   {
     hero: "Bastion",
     description:
-      "While other omnics such as Zenyatta and Orisa have been shown to inexplicably identify as gendered, Bastion was the only playable omnic confirmed to not do so and was referred to with 'it' pronouns in official material.",
+      "While other omnics such as Zen and Orisa have been shown to identify as gendered, Bastion was the only playable omnic confirmed to not do so and was referred to with 'it' pronouns.",
   },
   {
     hero: "Bastion",
@@ -24,7 +24,7 @@ const BastionFacts: BastionFact[] = [
   {
     hero: "Bastion",
     description:
-      "There was a period in development when Bastion was an 'Ultimate [ability] generator' when it had many Ultimate abilities that ended up being passed to other heroes. Its original Ultimate ability was a remote mine that could be driven like an RC car before burrowing into the ground.",
+      "While in development, Bastion was an 'Ultimate [ability] generator' that had many Ultimate abilities that ended up being passed to other heroes. Junkrat got his ult from here!",
   },
   {
     hero: "Bastion",

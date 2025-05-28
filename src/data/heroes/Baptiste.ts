@@ -9,7 +9,7 @@ const BaptisteFacts: BaptisteFact[] = [
   {
     hero: "Baptiste",
     description:
-      "Baptiste is bisexual, as was confirmed in the Overwatch comic 'As you are'. He was in love with Pharah, which ended when she came out as a lesbian. There's rumors he and Mauga used to be an item.",
+      "Baptiste is bisexual, as was confirmed in the OW comic 'As you are'. He was in love with Pharah, which ended when she came out as a lesbian. It seems he and Mauga used to be a couple.",
   },
   {
     hero: "Baptiste",

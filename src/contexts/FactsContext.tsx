@@ -20,6 +20,14 @@ const FactsContext = createContext<{
   dispatch: () => null,
 });
 
+console.log(
+  Facts.filter((fact) => fact.description.length > 186).map((a) => ({
+    hero: a.hero,
+    description: a.description,
+    length: a.description.length,
+  })),
+);
+
 const FactsContextProvider = ({ children }: { children: React.ReactNode }) => {
   const [state, dispatch] = useReducer(factsReducer, initialState);
 

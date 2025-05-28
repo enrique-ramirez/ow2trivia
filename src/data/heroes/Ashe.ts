@@ -34,7 +34,12 @@ const AsheFacts: AsheFact[] = [
   {
     hero: "Ashe",
     description:
-      "Ashe's Ultimate, B.O.B., was very technically challenging to implement due to memory and performance restrictions, and almost resulted in Ashe being scrapped. B.O.B. can be healed, buffed and debuffed; and can also capture or contest objectives.",
+      "Ashe's Ultimate B.O.B. was very technically challenging to implement due to memory and performance restrictions, and almost resulted in Ashe being scrapped.",
+  },
+  {
+    hero: "Ashe",
+    description:
+      "B.O.B. can be healed, buffed and debuffed; and can also capture or contest objectives. He's basically an extra party member.",
   },
 ];
 

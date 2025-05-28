@@ -9,7 +9,7 @@ const SombraFacts: SombraFact[] = [
   {
     hero: "Sombra",
     description:
-      "Sombra was originally Ana in her shrike skin. They gave her a grappling hook that let her stick to walls similar to how widows is, to give her better sightlines. They then came out with the Ana we know and love then made Sombra a completely different character",
+      "Sombra was originally Ana in her shrike skin. They gave her a grappling hook that let her stick to walls similar to how widows is, to give her better sightlines.",
   },
   {
     hero: "Sombra",

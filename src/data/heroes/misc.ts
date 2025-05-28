@@ -8,18 +8,18 @@ const MiscelaneousFacts: MiscelaneousFact[] = [
   },
   {
     description:
-      "In 2016, a player named Hongyu Wu tragically died the day before Overwatch release (a game he was eagerly anticipating) while attempting to stop a thief. A shrine was placed in his honor on Lijiang tower's control center.",
+      "In 2016 a player named Hongyu Wu sadly died a day before OW release (a game he was excited about) while stopping a thief. A shrine exists in his honor on Lijiang tower's control center.",
   },
   {
     description:
-      "According to MasterOverwatch.com, the most eliminations in a single Overwatch match was achieved by a player named “Danyx“, who in the second season of Overwatch (2016) managed to get 199 eliminations.",
+      "According to MasterOverwatch.com the most eliminations in a single OW match was achieved by a player named “Danyx“, who in the second season of OW (2016) managed to get 199 eliminations.",
   },
   {
     description: "If you wave at the Push robot, he says hi back!",
   },
   {
     description:
-      "Back in the first Overwatch, there were actually four classes that characters could fall into! They were Offense, Defense, Support, and Tank. Eventually, Blizzard combined the Offense and Defense classes into the Damage class that it is today.",
+      "There were initially four classes in OW1! They were Offense, Defense, Support, and Tank. Eventually, the Offense and Defense classes were merged into the Damage class that exists today.",
   },
   {
     description:

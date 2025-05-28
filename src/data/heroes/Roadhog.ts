@@ -9,7 +9,7 @@ const RoadhogFacts: RoadhogFact[] = [
   {
     hero: "Roadhog",
     description:
-      "Roadhog is heavily implied to have New Zealander roots. His name “Mako” is Maori for “shark” and his Toa/Islander skins are obvious Maori references. He also says “wop wops” which is New Zealander slang.",
+      "Roadhog is likely from New Zealand. “Mako” is Māori for “shark,” he uses NZ slang like “wop wops,” and his skins feature Māori influences.",
   },
   {
     hero: "Roadhog",

@@ -9,12 +9,12 @@ const AnaFacts: AnaFact[] = [
   {
     hero: "Ana",
     description:
-      "In Cassidy/Baptiste interactions in Overwatch 2, it is confirmed that Talon has a bounty on Ana's head, and that it is larger than the one on Cassidy's. Assuming that this is the same bounty Orisa mentions in the original game, the price on Ana is over $60 million.",
+      "In Cassidy/Baptiste interactions in OW2 it's confirmed that Talon has a bounty on Ana's head and that it's larger than the one on Cassidy's. The price on Ana's head is over $60 million!",
   },
   {
     hero: "Ana",
     description:
-      "The A-7000 (a sniper-type omnic utilized by Null Sector) was a failed attempt to replicate the conciousness of Ana Amari inside a robotic frame. Though the unit gained Amari's ruthlessness and skill, fragments of Amari's memories corrupted the frame's memory banks.",
+      "The A-7000, a sniper-type Null Sector omnic, was a failed attempt to replicate Ana Amari’s mind. Though skilled and ruthless, fragments of her memories corrupted its systems.",
   },
   {
     hero: "Ana",

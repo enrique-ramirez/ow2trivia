@@ -14,7 +14,7 @@ const ZenyattaFacts: ZenyattaFact[] = [
   {
     hero: "Zenyatta",
     description:
-      "As hinted by some of his voice lines, Zenyatta's healing and discord orbs are not magic. They are science we are yet to understand that comes from his connection to the Iris. Kiriko, Illari, and the Shimada brothers all use magic.",
+      "Zenyatta's healing and discord orbs are not magic. They're “science we are yet to understand“ coming from his connection to the Iris. Kiri, Illari, and the Shimada brothers do use magic.",
   },
   {
     hero: "Zenyatta",

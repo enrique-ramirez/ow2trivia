@@ -14,7 +14,7 @@ const WreckingBallFacts: WreckingBallFact[] = [
   {
     hero: "WreckingBall",
     description:
-      "In the 'Dorado' map as Wrecking Ball, if you the bells in a specific order (when looking at the bells from the garden from left to right: 2, 1, 2, 3, 1, 3, 4; four being the bell on your right), Hammond will sing!",
+      "In the 'Dorado' map as Wrecking Ball, if you the bells in a specific order (from the garden, left to right: 2, 1, 2, 3, 1, 3, 4; four being the bell on the right hall) Hammond will sing!",
   },
   {
     hero: "WreckingBall",
