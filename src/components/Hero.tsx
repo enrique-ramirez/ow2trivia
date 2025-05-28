@@ -20,7 +20,7 @@ function Hero({ name }: HeroProps) {
         className="h-30 w-30 bg-[url('/src/assets/bg-card.jpg')] object-cover md:h-64 md:w-56"
       />
 
-      <figcaption className="hidden justify-center py-4 align-middle font-medium uppercase md:block md:flex">
+      <figcaption className="hidden justify-center py-4 align-middle font-medium uppercase md:flex">
         <span className="mr-2 rounded-full border-1 border-gray-900 p-1">
           <img src={srcRole} alt={role} className="h-4 w-4" />
         </span>
