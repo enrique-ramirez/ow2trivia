@@ -24,7 +24,7 @@ const AnaFacts: AnaFact[] = [
   {
     hero: "Ana",
     description:
-      "Ana's story draws parallels with the story of Horus from Egyptian mythology. During an altercation with a former friend (in this case, Widowmaker), she lost her eye.",
+      "Ana's story draws parallels with the story of Horus from Egyptian mythology. For example, during an altercation with a former friend (in this case, Widowmaker), she lost her eye.",
   },
   {
     hero: "Ana",
