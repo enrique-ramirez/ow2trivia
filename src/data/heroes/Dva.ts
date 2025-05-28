@@ -44,6 +44,11 @@ const DvaFacts: DvaFact[] = [
     hero: "Dva",
     description: "D.Va's given name “Hana“ is the same as the Korean number 1.",
   },
+  {
+    hero: "Dva",
+    description:
+      "D.Va's warning icon color will change depending on your range. Red indicates you're in range, orange means you're out of range.",
+  },
 ];
 
 export { DvaFacts };

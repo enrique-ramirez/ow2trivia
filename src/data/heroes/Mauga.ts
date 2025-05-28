@@ -34,6 +34,11 @@ const MaugaFacts: MaugaFact[] = [
     description:
       "Mauga is a fan of Zarya, per their shared experience in weightlifting.",
   },
+  {
+    hero: "Mauga",
+    description:
+      "Mauga's ult chains enemies and puts a shield around him. If he were to jump from an edge, he'd pull enemies down with him!",
+  },
 ];
 
 export { MaugaFacts };
