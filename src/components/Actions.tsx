@@ -41,7 +41,7 @@ function Actions() {
             className="w-full cursor-pointer bg-white py-4 text-lg font-medium text-black uppercase opacity-90 hover:opacity-100 md:ml-4 md:w-auto md:px-8 md:text-2xl"
             onClick={handleCopy}
           >
-            Copy to clipboard
+            Copy <span className="hidden lg:inline">to clipboard</span>
           </button>
         )}
       </div>

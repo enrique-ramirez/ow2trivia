@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <GithubLink />
-      <main className="m-auto flex max-w-4xl flex-col p-8 md:p-0 md:pt-8">
+      <main className="m-auto flex max-w-4xl flex-col p-8">
         <Fact />
         <Actions />
       </main>
