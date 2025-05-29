@@ -43,7 +43,7 @@ function Actions() {
             onClick={handleCopy}
             id="btn--copy-text"
           >
-            Copy <span className="hidden lg:inline">to clipboard</span>
+            Copy
           </button>
         )}
       </div>
