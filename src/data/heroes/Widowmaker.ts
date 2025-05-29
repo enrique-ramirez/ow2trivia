@@ -9,7 +9,7 @@ const WidowmakerFacts: WidowmakerFact[] = [
   {
     hero: "Widowmaker",
     description:
-      "Widowmaker's tattoo on her right forearm erads “araignée du soir, Cauchemar“, which translates to “spider in the evening, Nightmare“. It comes from an old French superstition.",
+      "Widowmaker's tattoo on her right forearm reads “araignée du soir, Cauchemar“, which translates to “spider in the evening, Nightmare“. It comes from an old French superstition.",
   },
   {
     hero: "Widowmaker",

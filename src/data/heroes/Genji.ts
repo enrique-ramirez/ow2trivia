@@ -9,7 +9,7 @@ const GenjiFacts: GenjiFact[] = [
   {
     hero: "Genji",
     description:
-      "At Blizzcon 2017, Michael Chu confirmed that, although Genji was missing a bunch of his original body (replaced by cybernetic parts), he still owned a normal, human penis.",
+      "At Blizzcon 2017, Michael Chu confirmed that, although Genji was missing a bunch of his original body (replaced by cybernetic parts), he still owned a normal, human p3N!s.",
   },
   {
     hero: "Genji",

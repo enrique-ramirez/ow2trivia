@@ -49,6 +49,10 @@ const MiscelaneousFacts: MiscelaneousFact[] = [
     description:
       "If you use a dance emote on the DDR machine in Busan's map, you'll score big time!",
   },
+  {
+    description:
+      "You can still select your prefered hero even in the 'Ban heroes' stage by right clicking on them!",
+  },
 ];
 
 export { MiscelaneousFacts };
