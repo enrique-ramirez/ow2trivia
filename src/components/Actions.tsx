@@ -33,6 +33,7 @@ function Actions() {
         <button
           className="bg-blizzardcta mr-4 w-full cursor-pointer py-4 text-lg font-medium text-white uppercase opacity-90 hover:opacity-100 md:mr-0 md:mb-0 md:w-auto md:px-8 md:text-2xl"
           onClick={handleNewFact}
+          id="btn--new-fact"
         >
           New Fact
         </button>
@@ -40,6 +41,7 @@ function Actions() {
           <button
             className="w-full cursor-pointer bg-white py-4 text-lg font-medium text-black uppercase opacity-90 hover:opacity-100 md:ml-4 md:w-auto md:px-8 md:text-2xl"
             onClick={handleCopy}
+            id="btn--copy-text"
           >
             Copy <span className="hidden lg:inline">to clipboard</span>
           </button>
