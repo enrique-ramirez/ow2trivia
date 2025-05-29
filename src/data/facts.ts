@@ -1,3 +1,4 @@
+import { Heroes } from "./heroes";
 import { MiscelaneousFacts } from "./heroes/misc";
 import { AnaFacts } from "./heroes/Ana";
 import { AsheFacts } from "./heroes/Ashe";
@@ -50,7 +51,7 @@ type Fact = {
   description: string;
 };
 
-const Facts: Fact[] = [
+const allFacts: Fact[] = [
   ...MiscelaneousFacts,
   ...AnaFacts,
   ...AsheFacts,
@@ -96,6 +97,54 @@ const Facts: Fact[] = [
   ...ZaryaFacts,
   ...ZenyattaFacts,
 ] as const;
+
+const Facts: Record<HeroesNames | "miscelaneous" | "all", Fact[]> = {
+  all: allFacts,
+  miscelaneous: MiscelaneousFacts,
+  [Heroes.Ana.id]: AnaFacts,
+  [Heroes.Ashe.id]: AsheFacts,
+  [Heroes.Baptiste.id]: BaptisteFacts,
+  [Heroes.Bastion.id]: BastionFacts,
+  [Heroes.Brigitte.id]: BrigitteFacts,
+  [Heroes.Cassidy.id]: CassidyFacts,
+  [Heroes.Doomfist.id]: DoomfistFacts,
+  [Heroes.Dva.id]: DvaFacts,
+  [Heroes.Echo.id]: EchoFacts,
+  [Heroes.Freja.id]: FrejaFacts,
+  [Heroes.Genji.id]: GenjiFacts,
+  [Heroes.Hanzo.id]: HanzoFacts,
+  [Heroes.Hazard.id]: HazardFacts,
+  [Heroes.Illari.id]: IllariFacts,
+  [Heroes.JunkerQueen.id]: JunkerQueenFacts,
+  [Heroes.Junkrat.id]: JunkratFacts,
+  [Heroes.Juno.id]: JunoFacts,
+  [Heroes.Kiriko.id]: KirikoFacts,
+  [Heroes.Lifeweaver.id]: LifeweaverFacts,
+  [Heroes.Lucio.id]: LucioFacts,
+  [Heroes.Mauga.id]: MaugaFacts,
+  [Heroes.Mei.id]: MeiFacts,
+  [Heroes.Mercy.id]: MercyFacts,
+  [Heroes.Moira.id]: MoiraFacts,
+  [Heroes.Orisa.id]: OrisaFacts,
+  [Heroes.Pharah.id]: PharahFacts,
+  [Heroes.Ramattra.id]: RamattraFacts,
+  [Heroes.Reaper.id]: ReaperFacts,
+  [Heroes.Reinhardt.id]: ReinhardtFacts,
+  [Heroes.Roadhog.id]: RoadhogFacts,
+  [Heroes.Sigma.id]: SigmaFacts,
+  [Heroes.Sojourn.id]: SojournFacts,
+  [Heroes.Soldier76.id]: Soldier76Facts,
+  [Heroes.Sombra.id]: SombraFacts,
+  [Heroes.Symmetra.id]: SymmetraFacts,
+  [Heroes.Torbjorn.id]: TorbjornFacts,
+  [Heroes.Tracer.id]: TracerFacts,
+  [Heroes.Venture.id]: VentureFacts,
+  [Heroes.Widowmaker.id]: WidowmakerFacts,
+  [Heroes.Winston.id]: WinstonFacts,
+  [Heroes.WreckingBall.id]: WreckingBallFacts,
+  [Heroes.Zarya.id]: ZaryaFacts,
+  [Heroes.Zenyatta.id]: ZenyattaFacts,
+} as const;
 
 export { Facts };
 export type { Fact };

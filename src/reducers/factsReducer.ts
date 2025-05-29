@@ -21,20 +21,10 @@ type NewHero = {
 
 type Actions = NewFact | NewHero;
 
-const filterByHero = (hero: HeroesNames | "miscelaneous" | "all") => {
-  if (hero === "all") {
-    return Facts;
-  } else if (hero === "miscelaneous") {
-    return Facts.filter((fact) => !fact.hero);
-  } else {
-    return Facts.filter((fact) => fact.hero === hero);
-  }
-};
-
 const factsReducer = (state: State, action: Actions) => {
   switch (action.type) {
     case "NEW_FACT": {
-      const options = filterByHero(state.hero);
+      const options = Facts[state.hero];
       const newIndex = getRandomNumber(options.length);
 
       return {
@@ -44,7 +34,7 @@ const factsReducer = (state: State, action: Actions) => {
     }
 
     case "NEW_HERO": {
-      const options = filterByHero(action.payload);
+      const options = Facts[action.payload];
       const newIndex = getRandomNumber(options.length);
 
       return {

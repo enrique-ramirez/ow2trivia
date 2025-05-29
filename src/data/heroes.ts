@@ -6,7 +6,7 @@ const Roles = {
 
 const Heroes = {
   Ana: {
-    id: "ana",
+    id: "Ana",
     name: "Ana",
     role: Roles.Support,
     birthday: "01/01",
@@ -16,7 +16,7 @@ const Heroes = {
       "One of the founding members of Overwatch, Ana uses her skills and expertise to defend her home and the people she cares for.",
   },
   Ashe: {
-    id: "ashe",
+    id: "Ashe",
     name: "Ashe",
     role: Roles.Damage,
     birthday: "01/10",
@@ -26,7 +26,7 @@ const Heroes = {
       "Ashe is the ambitious and calculating leader of the Deadlock Rebels Gang and a respected figure in the criminal underworld.",
   },
   Baptiste: {
-    id: "baptiste",
+    id: "Baptiste",
     name: "Baptiste",
     role: Roles.Support,
     birthday: "12/03",
@@ -36,7 +36,7 @@ const Heroes = {
       "An elite combat medic and ex-Talon operative, Baptiste now uses his skills to help those whose lives have been impacted by war.",
   },
   Bastion: {
-    id: "bastion",
+    id: "Bastion",
     name: "Bastion",
     role: Roles.Damage,
     birthday: null,
@@ -46,7 +46,7 @@ const Heroes = {
       "Once a frontline combatant in the devastating Omnic Crisis, this curious Bastion unit now explores the world, fascinated by nature but wary of a fearful humanity.",
   },
   Brigitte: {
-    id: "brigitte",
+    id: "Brigitte",
     name: "Brigitte",
     role: Roles.Support,
     birthday: "22/09",
@@ -56,7 +56,7 @@ const Heroes = {
       "No longer sitting on the sidelines, Brigitte Lindholm has taken up arms to defend those in need of protection.",
   },
   Cassidy: {
-    id: "cassidy",
+    id: "Cassidy",
     name: "Cassidy",
     role: Roles.Damage,
     birthday: "31/07",
@@ -66,7 +66,7 @@ const Heroes = {
       "Armed with his Peacekeeper revolver, the outlaw Cole Cassidy doles out justice on his own terms.",
   },
   Doomfist: {
-    id: "doomfist",
+    id: "Doomfist",
     name: "Doomfist",
     role: Roles.Tank,
     birthday: "25/05",
@@ -76,7 +76,7 @@ const Heroes = {
       "Doomfist is the calculating leader of Talon, a terrorist organization and paramilitary force that works in direct opposition to Overwatch.",
   },
   Dva: {
-    id: "dva",
+    id: "Dva",
     name: "D.Va",
     role: Roles.Tank,
     birthday: "22/06",
@@ -86,7 +86,7 @@ const Heroes = {
       "D.Va is a former professional gamer who now uses her skills to pilot a state-of-the-art mech in defense of her homeland.",
   },
   Echo: {
-    id: "echo",
+    id: "Echo",
     name: "Echo",
     role: Roles.Damage,
     birthday: "05/02",
@@ -96,7 +96,7 @@ const Heroes = {
       "Echo is a multirole, adaptive robot with the most sophisticated artificial intelligence in the world, originally designed by Dr. Mina Liao for use during combat missions with Overwatch.",
   },
   Freja: {
-    id: "freja",
+    id: "Freja",
     name: "Freja",
     role: Roles.Damage,
     birthday: "06/09",
@@ -106,7 +106,7 @@ const Heroes = {
       "A search and rescue operative turned bounty hunter, Freja can find anyone for the right price.",
   },
   Genji: {
-    id: "genji",
+    id: "Genji",
     name: "Genji",
     role: Roles.Damage,
     birthday: "28/10",
@@ -116,7 +116,7 @@ const Heroes = {
       "The cyborg ninja Genji Shimada has made peace with the augmented body he once rejected, and in doing so, he has discovered a higher humanity.",
   },
   Hanzo: {
-    id: "hanzo",
+    id: "Hanzo",
     name: "Hanzo",
     role: Roles.Damage,
     birthday: "03/11",
@@ -126,7 +126,7 @@ const Heroes = {
       "Mastering his skills as a bowman and an assassin, Hanzo Shimada strives to prove himself as a warrior without peer.",
   },
   Hazard: {
-    id: "hazard",
+    id: "Hazard",
     name: "Hazard",
     role: Roles.Tank,
     birthday: "11/11",
@@ -136,7 +136,7 @@ const Heroes = {
       "A radical disruptor and an unstoppable weapon, Hazard has rocketed to fame in the criminal underworld as he fights to tear the system down.",
   },
   Illari: {
-    id: "illari",
+    id: "Illari",
     name: "Illari",
     role: Roles.Support,
     birthday: "21/12",
@@ -146,8 +146,8 @@ const Heroes = {
       "As the last of the Inti Warriors, Illari is a vessel for the power of the sun. She’ll do anything to make up for her past.",
   },
   JunkerQueen: {
-    id: "junker-queen",
-    name: "JunkerQueen",
+    id: "JunkerQueen",
+    name: "Junker Queen",
     role: Roles.Tank,
     birthday: "14/06",
     age: 31,
@@ -156,7 +156,7 @@ const Heroes = {
       "Armed with her axe, Carnage, and her electromagnetic gauntlet, the cutthroat leader of the Junkers is on a mission to rule the world.",
   },
   Junkrat: {
-    id: "junkrat",
+    id: "Junkrat",
     name: "Junkrat",
     role: Roles.Damage,
     birthday: "29/02",
@@ -166,7 +166,7 @@ const Heroes = {
       "Junkrat is an explosives-obsessed demolitionist who lives to cause chaos and destruction.",
   },
   Juno: {
-    id: "juno",
+    id: "Juno",
     name: "Juno",
     role: Roles.Support,
     birthday: "22/03",
@@ -176,7 +176,7 @@ const Heroes = {
       "The first human born on Mars, Juno uses her space-age technology to solve any problem that enters her orbit. She is determined to one day save her home planet.",
   },
   Kiriko: {
-    id: "kiriko",
+    id: "Kiriko",
     name: "Kiriko",
     role: Roles.Support,
     birthday: "07/07",
@@ -186,7 +186,7 @@ const Heroes = {
       "As Miko of the Kanezaka shrine and daughter of the Shimada's former swordmaster, Kiriko Kamori channels both her spiritual and ninja skills to heal her fractured city.",
   },
   Lifeweaver: {
-    id: "lifeweaver",
+    id: "Lifeweaver",
     name: "Lifeweaver",
     role: Roles.Support,
     birthday: "28/04",
@@ -196,7 +196,7 @@ const Heroes = {
       "The brilliant creator of biolight, a technology that merges plant matter and hard light. He dreams of healing the world.",
   },
   Lucio: {
-    id: "lucio",
+    id: "Lucio",
     name: "Lúcio",
     role: Roles.Support,
     birthday: "20/03",
@@ -206,7 +206,7 @@ const Heroes = {
       "Lúcio is an international celebrity who inspires social change through his music and activism.",
   },
   Mauga: {
-    id: "mauga",
+    id: "Mauga",
     name: "Mauga",
     role: Roles.Tank,
     birthday: "19/08",
@@ -216,7 +216,7 @@ const Heroes = {
       "A charismatic and cunning Samoan warrior, Mauga thrives in the chaos of the battlefield and lives every day like it’s his last.",
   },
   Mei: {
-    id: "mei",
+    id: "Mei",
     name: "Mei",
     role: Roles.Damage,
     birthday: "05/09",
@@ -226,7 +226,7 @@ const Heroes = {
       "Mei is a scientist who has taken the fight to preserve the environment into her own hands.",
   },
   Mercy: {
-    id: "mercy",
+    id: "Mercy",
     name: "Mercy",
     role: Roles.Support,
     birthday: "13/05",
@@ -236,7 +236,7 @@ const Heroes = {
       "A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace.",
   },
   Moira: {
-    id: "moira",
+    id: "Moira",
     name: "Moira",
     role: Roles.Support,
     birthday: "04/04",
@@ -246,7 +246,7 @@ const Heroes = {
       "Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life.",
   },
   Orisa: {
-    id: "orisa",
+    id: "Orisa",
     name: "Orisa",
     role: Roles.Tank,
     birthday: "09/05",
@@ -256,7 +256,7 @@ const Heroes = {
       "Built from parts of one of Numbani's short-lived OR15 defense robots, Orisa is the city's newest protector, though she still has much to learn.",
   },
   Pharah: {
-    id: "pharah",
+    id: "Pharah",
     name: "Pharah",
     role: Roles.Damage,
     birthday: "15/04",
@@ -266,7 +266,7 @@ const Heroes = {
       "Fareeha Amari's commitment to duty runs in her blood. She comes from a long line of highly decorated soldiers and burns with the desire to serve with honor.",
   },
   Ramattra: {
-    id: "ramattra",
+    id: "Ramattra",
     name: "Ramattra",
     role: Roles.Tank,
     birthday: "29/03",
@@ -276,7 +276,7 @@ const Heroes = {
       "The brutal leader of Null Sector will stop at nothing to see his vision for the world realized.",
   },
   Reaper: {
-    id: "reaper",
+    id: "Reaper",
     name: "Reaper",
     role: Roles.Damage,
     birthday: "14/12",
@@ -286,7 +286,7 @@ const Heroes = {
       "Some speak of a black-robed terrorist known only as the Reaper. His identity and motives are a mystery. What is known is that where he appears, death follows.",
   },
   Reinhardt: {
-    id: "reinhardt",
+    id: "Reinhardt",
     name: "Reinhardt",
     role: Roles.Tank,
     birthday: "26/06",
@@ -296,7 +296,7 @@ const Heroes = {
       "Reinhardt Wilhelm styles himself as a champion of a bygone age, who lives by the knightly codes of valor, justice, and courage.",
   },
   Roadhog: {
-    id: "roadhog",
+    id: "Roadhog",
     name: "Roadhog",
     role: Roles.Tank,
     birthday: "12/09",
@@ -306,7 +306,7 @@ const Heroes = {
       "Roadhog is a powerful enforcer with a well-earned reputation for random and wanton destruction.",
   },
   Sigma: {
-    id: "sigma",
+    id: "Sigma",
     name: "Sigma",
     role: Roles.Tank,
     birthday: "15/13",
@@ -316,7 +316,7 @@ const Heroes = {
       "Brilliant astrophysicist Dr. Siebren de Kuiper's life changed forever when an experiment gone wrong gave him the ability to control gravity; now, Talon manipulates him to their own ends.",
   },
   Sojourn: {
-    id: "sojourn",
+    id: "Sojourn",
     name: "Sojourn",
     role: Roles.Damage,
     birthday: "12/01",
@@ -326,8 +326,8 @@ const Heroes = {
       "As a leader in the bygone days of Overwatch, Vivian Chase, callsign Sojourn, is determined to ensure its new heroes don’t repeat the mistakes of the past.",
   },
   Soldier76: {
-    id: "soldier-76",
-    name: "Soldier76",
+    id: "Soldier76",
+    name: "Soldier 76",
     role: Roles.Damage,
     birthday: "27/01",
     age: 58,
@@ -336,7 +336,7 @@ const Heroes = {
       "The target of an international manhunt, the vigilante known as Soldier: 76 wages a personal war to expose the truth behind Overwatch's collapse.",
   },
   Sombra: {
-    id: "sombra",
+    id: "Sombra",
     name: "Sombra",
     role: Roles.Damage,
     birthday: "31/12",
@@ -346,7 +346,7 @@ const Heroes = {
       "One of the world's most notorious hackers, Sombra uses information to manipulate those in power.",
   },
   Symmetra: {
-    id: "symmetra",
+    id: "Symmetra",
     name: "Symmetra",
     role: Roles.Damage,
     birthday: "02/10",
@@ -356,7 +356,7 @@ const Heroes = {
       "Symmetra literally bends reality. By manipulating hard-light constructs, she crafts the world as she wishes it to be, in hopes of engineering a perfect society.",
   },
   Torbjorn: {
-    id: "torbjorn",
+    id: "Torbjorn",
     name: "Torbjörn",
     role: Roles.Damage,
     birthday: "21/09",
@@ -366,7 +366,7 @@ const Heroes = {
       "At its height, Overwatch possessed one of the most advanced armaments on the planet, which could be traced to the workshop of an ingenious engineer named Torbjörn Lindholm.",
   },
   Tracer: {
-    id: "tracer",
+    id: "Tracer",
     name: "Tracer",
     role: Roles.Damage,
     birthday: "17/02",
@@ -376,7 +376,7 @@ const Heroes = {
       "The former Overwatch agent known as Tracer is a time-jumping adventurer and an irrepressible force for good.",
   },
   Venture: {
-    id: "venture",
+    id: "Venture",
     name: "Venture",
     role: Roles.Damage,
     birthday: "06/08",
@@ -386,7 +386,7 @@ const Heroes = {
       "A globe-trotting archaeologist and explorer, Venture has a passion for solving history’s mysteries.",
   },
   Widowmaker: {
-    id: "widowmaker",
+    id: "Widowmaker",
     name: "Widowmaker",
     role: Roles.Damage,
     birthday: "19/11",
@@ -396,7 +396,7 @@ const Heroes = {
       "Widowmaker is the perfect assassin: a patient, ruthlessly efficient killer who shows neither emotion nor remorse.",
   },
   Winston: {
-    id: "winston",
+    id: "Winston",
     name: "Winston",
     role: Roles.Tank,
     birthday: "06/06",
@@ -406,8 +406,8 @@ const Heroes = {
       "A super-intelligent, genetically engineered gorilla, Winston is a brilliant scientist and a champion for humanity’s potential.",
   },
   WreckingBall: {
-    id: "wrecking-ball",
-    name: "WreckingBall",
+    id: "WreckingBall",
+    name: "Wrecking Ball",
     role: Roles.Tank,
     birthday: "15/10",
     age: 16,
@@ -416,7 +416,7 @@ const Heroes = {
       "A resourceful and highly intelligent mechanic and fighter, Wrecking Ball rose from the laboratories of Horizon Lunar Colony to become the Junker Queen’s champion.",
   },
   Zarya: {
-    id: "zarya",
+    id: "Zarya",
     name: "Zarya",
     role: Roles.Tank,
     birthday: "04/12",
@@ -426,7 +426,7 @@ const Heroes = {
       "Aleksandra Zaryanova is one of the world's strongest women, a celebrated athlete who sacrificed personal glory to protect her family, friends, and country in a time of war.",
   },
   Zenyatta: {
-    id: "zenyatta",
+    id: "Zenyatta",
     name: "Zenyatta",
     role: Roles.Support,
     birthday: "14/07",

@@ -11,7 +11,9 @@ const useHeroImg = (name: string, type: "Role" | "Avatar") => {
 
     const fetchImage = async () => {
       try {
-        const response = await import(`../assets/${dir}/${name}.${ext}`);
+        const response = await import(
+          `../assets/${dir}/${name.toLowerCase()}.${ext}`
+        );
         setSrc(response.default);
       } catch (err) {
         setError(err);
