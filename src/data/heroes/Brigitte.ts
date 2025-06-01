@@ -21,6 +21,11 @@ const BrigitteFacts: BrigitteFact[] = [
     description:
       "Like her father, Brigitte has an Ironclad Guild tattoo on her shoulder. Hers is on her outer left shoulder, while Torbjörn's is on his outer right shoulder.",
   },
+  {
+    hero: "Brigitte",
+    description:
+      "While her aptitude for engineering mirrored that of her father's (Torbjörn), Brigitte's interest leaned to armor creation while Torbjörn's focus was on weapons.",
+  },
 ];
 
 export { BrigitteFacts };

@@ -26,6 +26,11 @@ const TorbjornFacts: TorbjornFact[] = [
     description:
       "Ganymede (Bastion's pet bird) often tries to make a nest in Torbjörn's beard.",
   },
+  {
+    hero: "Torbjorn",
+    description:
+      "After saving his life and while at the hospital, Reinhardt wouldn't leave Torbjörn's side. Torb became so frustrated he told him that if he left him alone, he could name his daughter.",
+  },
 ];
 
 export { TorbjornFacts };

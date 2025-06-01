@@ -40,6 +40,11 @@ const JunoFacts: JunoFact[] = [
     hero: "Juno",
     description: "Juno never uses contractions.",
   },
+  {
+    hero: "Juno",
+    description:
+      "Juno is one of two heroes whose melee attack is a kick rather than a punch, the other being Zenyatta.",
+  },
 ];
 
 export { JunoFacts };

@@ -34,6 +34,11 @@ const IllariFacts: IllariFact[] = [
     hero: "Illari",
     description: "Illari has a pet llama named Chuño",
   },
+  {
+    hero: "Illari",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Illari, Kiriko, Mercy, Freja, Sombra, Hanzo, Reaper and Tracer.",
+  },
 ];
 
 export { IllariFacts };

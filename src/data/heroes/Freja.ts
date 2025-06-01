@@ -15,6 +15,11 @@ const FrejaFacts: FrejaFact[] = [
     hero: "Freja",
     description: "Freja's favourite animal is the stoat.",
   },
+  {
+    hero: "Freja",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Freja, Sombra, Hanzo, Reaper, Tracer, Illari, Kiriko and Mercy.",
+  },
 ];
 
 export { FrejaFacts };

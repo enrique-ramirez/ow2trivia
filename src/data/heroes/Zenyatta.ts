@@ -36,6 +36,11 @@ const ZenyattaFacts: ZenyattaFact[] = [
     description:
       "Zenyatta has been seen working for Talon against his will in multiple gameplay trailers, however the cancellation of Story Missions have left the details in shadows.",
   },
+  {
+    hero: "Zenyatta",
+    description:
+      "Zenyatta is one of two heroes whose melee attack is a kick rather than a punch, the other being Juno.",
+  },
 ];
 
 export { ZenyattaFacts };

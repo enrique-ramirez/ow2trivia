@@ -24,7 +24,7 @@ const SombraFacts: SombraFact[] = [
   {
     hero: "Sombra",
     description:
-      "Unlike most of the heroes, Sombra uses her right hand for the “Quick Melee“ attack.",
+      "Only 8 heroes melee exclusively with their right hand: Sombra, Hanzo, Reaper, Tracer, Illari, Kiriko, Mercy and Freja.",
   },
   {
     hero: "Sombra",

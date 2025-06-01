@@ -44,6 +44,15 @@ const ReaperFacts: ReaperFact[] = [
     description:
       "Reapers are a type of unit in the StarCraft series. Like Reaper himself, they dual-wield firearms and wear masks.",
   },
+  {
+    hero: "Reaper",
+    description: "Reaper can one-shot Tracer.",
+  },
+  {
+    hero: "Reaper",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Reaper, Tracer, Illari, Kiriko, Mercy, Freja, Sombra and Hanzo.",
+  },
 ];
 
 export { ReaperFacts };

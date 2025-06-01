@@ -56,6 +56,11 @@ const KirikoFacts: KirikoFact[] = [
     description:
       "Kiriko's design was heavily inspired by Genji. One of her starting points was creating a support hero that DPS players would enjoy playing.",
   },
+  {
+    hero: "Kiriko",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Kiriko, Mercy, Freja, Sombra, Hanzo, Reaper, Tracer and Illari.",
+  },
 ];
 
 export { KirikoFacts };

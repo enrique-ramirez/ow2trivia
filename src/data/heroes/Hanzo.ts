@@ -40,6 +40,11 @@ const HanzoFacts: HanzoFact[] = [
     description:
       "Hanzo has delicate ankles, leading him to wear mechanical greaves",
   },
+  {
+    hero: "Hanzo",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Hanzo, Reaper, Tracer, Illari, Kiriko, Mercy, Freja and Sombra.",
+  },
 ];
 
 export { HanzoFacts };

@@ -21,6 +21,11 @@ const MercyFacts: MercyFact[] = [
     description:
       "Mercy is a fan of the apple pie Torbjörn's wife make for the holidays.",
   },
+  {
+    hero: "Mercy",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Mercy, Freja, Sombra, Hanzo, Reaper, Tracer, Illari and Kiriko.",
+  },
 ];
 
 export { MercyFacts };

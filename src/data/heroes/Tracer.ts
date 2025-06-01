@@ -9,7 +9,7 @@ const TracerFacts: TracerFact[] = [
   {
     hero: "Tracer",
     description:
-      "Tracer was a bit of a revel when she was a teenager, getting her first motorcycle at 17 years old.",
+      "In her teens, Tracer was something of a party animal; staying out all night, and attending rock concerts.",
   },
   {
     hero: "Tracer",
@@ -47,6 +47,31 @@ const TracerFacts: TracerFact[] = [
   {
     hero: "Tracer",
     description: "Tracer dislikes horror movies.",
+  },
+  {
+    hero: "Tracer",
+    description:
+      "Only 8 heroes melee exclusively with their right hand: Tracer, Illari, Kiriko, Mercy, Freja, Sombra, Hanzo and Reaper.",
+  },
+  {
+    hero: "Tracer",
+    description:
+      "Tracer has trouble concentrating, only being able to actually do it for hours at a time when she's upset.",
+  },
+  {
+    hero: "Tracer",
+    description:
+      "Tracer is a fan of British pop/punk music, such as The Clash and The Beatles, and collects vinyl records.",
+  },
+  {
+    hero: "Tracer",
+    description:
+      "Tracer got her time-travelling powers from an accident at a test for an overwatch teleporting fighter named ”Slipstream”.",
+  },
+  {
+    hero: "Tracer",
+    description:
+      "Tracer's ”chronal accelerator”, which controls her otherwise uncontrollable time-jumps, was developed by Winston.",
   },
 ];
 
