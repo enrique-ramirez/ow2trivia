@@ -40,6 +40,11 @@ const JunkratFacts: JunkratFact[] = [
     description:
       "Junkrat went through numerous designs, beginning with a set of early concepts depicting him as a bulky robot, a cyborg, a mutant, and even an alien.",
   },
+  {
+    hero: "Junkrat",
+    description:
+      "You can place a Junkrat's trap on top of anyone sleeping, stunned or even a Mei in ice form. The trap will trap them immediatelly after they get up!",
+  },
 ];
 
 export { JunkratFacts };

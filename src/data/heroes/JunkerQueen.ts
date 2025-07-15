@@ -16,6 +16,11 @@ const JunkerQueenFacts: JunkerQueenFact[] = [
     description:
       "Junker Queen is the only human ever able to best Wrecking Ball in combat, earing his respect and mentioning she has “earned her arrogance“ unlike most humans.",
   },
+  {
+    hero: "JunkerQueen",
+    description:
+      "JunkerQueen can throw her knife at most tanks and then crouch at a ledge, pull the knife towards her and pull the tank off the ledge!",
+  },
 ];
 
 export { JunkerQueenFacts };

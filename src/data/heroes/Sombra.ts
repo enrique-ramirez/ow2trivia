@@ -49,6 +49,11 @@ const SombraFacts: SombraFact[] = [
     description:
       "Mauga once burnt down a Talon server room, making sombra lose a bunch of bank account numbers and her favourite pizza recipes.",
   },
+  {
+    hero: "Sombra",
+    description:
+      "Sombra's hack can disable some passive abilities like Lucio's wall ride and Genji/Hanzo/Kiriko's wall crawl! No wonder she's banned most of the time!",
+  },
 ];
 
 export { SombraFacts };

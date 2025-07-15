@@ -25,6 +25,10 @@ const SigmaFacts: SigmaFact[] = [
     hero: "Sigma",
     description: "Sigma's favourite animal is the tardigrade!",
   },
+  {
+    hero: "Sigma",
+    description: "You can blow up Ball's minefield mines with Sigma's shield!",
+  },
 ];
 
 export { SigmaFacts };

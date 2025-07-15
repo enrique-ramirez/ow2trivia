@@ -35,6 +35,23 @@ const RoadhogFacts: RoadhogFact[] = [
     description:
       "Roadhog's name, Mako, means “Shark“ in the New Zealand Maori dialect.",
   },
+  {
+    hero: "Roadhog",
+    description: "Roadhog can hook a JunkRat tire!",
+  },
+  {
+    hero: "Roadhog",
+    description: "Roadhog can hook someone out of Mauga's cage!",
+  },
+  {
+    hero: "Roadhog",
+    description: "Roadhog can hook a DVA bomb! ... don't do it, though!",
+  },
+  {
+    hero: "Roadhog",
+    description:
+      "When Roadhog uses his healing ability, he also gets daage reduction! It can be useful to survive even under anti!",
+  },
 ];
 
 export { RoadhogFacts };

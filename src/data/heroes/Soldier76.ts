@@ -39,6 +39,11 @@ const Soldier76Facts: Soldier76Fact[] = [
     hero: "Soldier76",
     description: "Soldier 76 takes vitamins once a day, after a steak dinner.",
   },
+  {
+    hero: "Soldier76",
+    description:
+      "While Soldier 76's ult is an aimbot of sorts, you still want to aim it as it can still crit! Range is rather short, though.",
+  },
 ];
 
 export { Soldier76Facts };

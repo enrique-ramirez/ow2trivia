@@ -53,6 +53,11 @@ const ReaperFacts: ReaperFact[] = [
     description:
       "Only 8 heroes melee exclusively with their right hand: Reaper, Tracer, Illari, Kiriko, Mercy, Freja, Sombra and Hanzo.",
   },
+  {
+    hero: "Reaper",
+    description:
+      "Reaper's ultimate will refill his ammo but only at the end and only if it wasn't interrupted. So, never.",
+  },
 ];
 
 export { ReaperFacts };

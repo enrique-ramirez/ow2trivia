@@ -51,6 +51,20 @@ const CassidyFacts: CassidyFact[] = [
     description:
       "Cassidy's design was based on an old StarCraft sketch by Chris Metzen of a character named Prospector Logann.",
   },
+  {
+    hero: "Cassidy",
+    description: "Cassidy gains damage reduction on roll!",
+  },
+  {
+    hero: "Cassidy",
+    description:
+      "Cassidy can survive Tracer's pulse bomb if he rolls with full health right when it goes off!",
+  },
+  {
+    hero: "Cassidy",
+    description:
+      "Cassidy can flashbang a DVA nuke and it will hinder it and cancel the boosters!",
+  },
 ];
 
 export { CassidyFacts };

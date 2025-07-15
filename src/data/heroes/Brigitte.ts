@@ -26,6 +26,11 @@ const BrigitteFacts: BrigitteFact[] = [
     description:
       "While her aptitude for engineering mirrored that of her father's (Torbjörn), Brigitte's interest leaned to armor creation while Torbjörn's focus was on weapons.",
   },
+  {
+    hero: "Brigitte",
+    description:
+      "Briggite can trigger inspire by damaging Wrecking Ball's minefield mines.",
+  },
 ];
 
 export { BrigitteFacts };

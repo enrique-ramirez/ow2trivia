@@ -20,6 +20,11 @@ const FrejaFacts: FrejaFact[] = [
     description:
       "Only 8 heroes melee exclusively with their right hand: Freja, Sombra, Hanzo, Reaper, Tracer, Illari, Kiriko and Mercy.",
   },
+  {
+    hero: "Freja",
+    description:
+      "Freja's bola shot remains attached to Reaper even in wraith mode!",
+  },
 ];
 
 export { FrejaFacts };

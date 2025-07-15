@@ -49,6 +49,11 @@ const DvaFacts: DvaFact[] = [
     description:
       "D.Va's warning icon color will change depending on your range. Red indicates you're in range, orange means you're out of range.",
   },
+  {
+    hero: "Dva",
+    description:
+      "While D.Va's matrix can stop a lot of projectiles, she can't do a thing against Sigma's boulder!",
+  },
 ];
 
 export { DvaFacts };

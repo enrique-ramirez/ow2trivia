@@ -41,6 +41,11 @@ const AsheFacts: AsheFact[] = [
     description:
       "B.O.B. can be healed, buffed and debuffed; and can also capture or contest objectives. He's basically an extra party member.",
   },
+  {
+    hero: "Ashe",
+    description:
+      "Ashe can also explode her dynamite with her coach gun, not just her primary fire!",
+  },
 ];
 
 export { AsheFacts };

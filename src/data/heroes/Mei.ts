@@ -26,6 +26,16 @@ const MeiFacts: MeiFact[] = [
     description:
       "Early versions of Mei were an explorer outfitted with climbing gear and bounty hunter who used an ice gun to freeze captured bounties in cryostasis.",
   },
+  {
+    hero: "Mei",
+    description:
+      "If timed correctly, Mei's wall can be placed right where Doomfist's ult will land, moving the damage area top and keeping teammates safe!",
+  },
+  {
+    hero: "Mei",
+    description:
+      "Mei's primary fire freezes enemies caught in blizzard faster!",
+  },
 ];
 
 export { MeiFacts };

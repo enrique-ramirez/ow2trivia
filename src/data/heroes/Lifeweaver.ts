@@ -30,6 +30,15 @@ const LifeweaverFacts: LifeweaverFact[] = [
     description:
       "Lifeweaver's nickname of “Bua“ translates as “lotus“ or “waterlily“.",
   },
+  {
+    hero: "Lifeweaver",
+    description:
+      "If placed correctly, Lifeweaver's tree can cancel Mei's ult if placed at the same position, as it blocks line of sight.",
+  },
+  {
+    hero: "Lifeweaver",
+    description: "You can cancel a Mercy Rez with Lifeweaver's petal!",
+  },
 ];
 
 export { LifeweaverFacts };

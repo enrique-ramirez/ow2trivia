@@ -39,6 +39,11 @@ const MoiraFacts: MoiraFact[] = [
     description:
       "In the map Oasis, if you approach one of the omnic staff at ElBuffi as Moira it will comment on how her suggestions brought great feedback from customers!",
   },
+  {
+    hero: "Moira",
+    description:
+      "Fast tapping moira's damage at an enemy (rather than keeping it clicked) regenerates biotic energy faster at the cost of lower damage! No Moira ever does this.",
+  },
 ];
 
 export { MoiraFacts };

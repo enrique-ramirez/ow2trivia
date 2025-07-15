@@ -31,6 +31,15 @@ const LucioFacts: LucioFact[] = [
     description:
       "A Soundwave skin for Lúcio was considered in the Transformers collaboration, but was dropped.",
   },
+  {
+    hero: "Lucio",
+    description:
+      "Lucio can trigger his ult while suspended in the air in Sigma's Flux! No need to touch grass!",
+  },
+  {
+    hero: "Lucio",
+    description: "Lucio can boop Junkrat's tire!",
+  },
 ];
 
 export { LucioFacts };

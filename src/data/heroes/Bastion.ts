@@ -41,6 +41,11 @@ const BastionFacts: BastionFact[] = [
     description:
       "Bastion's bird companion Ganymede changes species on certain skins. The bird's voice matches the skin's species, too!",
   },
+  {
+    hero: "Bastion",
+    description:
+      "While Bastion's ult is technically a projectile, it cannot be blocked on it's way UPWARD (it's just an animation); only DOWNWARDs.",
+  },
 ];
 
 export { BastionFacts };

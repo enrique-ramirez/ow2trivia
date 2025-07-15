@@ -40,6 +40,10 @@ const GenjiFacts: GenjiFact[] = [
     description:
       "Genji's Dragon Blade ability was originally his primary attack, but this didn't work well, so it became his ultimate.",
   },
+  {
+    hero: "Genji",
+    description: "Genji can deflect (and kill with) Bastion's ult!",
+  },
 ];
 
 export { GenjiFacts };

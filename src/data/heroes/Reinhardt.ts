@@ -40,6 +40,15 @@ const ReinhardtFacts: ReinhardtFact[] = [
     hero: "Reinhardt",
     description: "Reinhardt is Brigitte's godfather!",
   },
+  {
+    hero: "Reinhardt",
+    description: "Reinhardt can pin a DVA bomb away (or towards) his team!",
+  },
+  {
+    hero: "Reinhardt",
+    description:
+      "Reinhardt's shatter can free him from Zarya's grav, if you are far enough away from the grav that it can't immediately pull you back in!",
+  },
 ];
 
 export { ReinhardtFacts };

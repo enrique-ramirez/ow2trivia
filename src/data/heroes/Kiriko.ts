@@ -61,6 +61,10 @@ const KirikoFacts: KirikoFact[] = [
     description:
       "Only 8 heroes melee exclusively with their right hand: Kiriko, Mercy, Freja, Sombra, Hanzo, Reaper, Tracer and Illari.",
   },
+  {
+    hero: "Kiriko",
+    description: "Kiriko's Suzu goes through enemies!",
+  },
 ];
 
 export { KirikoFacts };

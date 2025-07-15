@@ -45,6 +45,11 @@ const JunoFacts: JunoFact[] = [
     description:
       "Juno is one of two heroes whose melee attack is a kick rather than a punch, the other being Zenyatta.",
   },
+  {
+    hero: "Juno",
+    description:
+      "Juno can climb up over most curved surfaces (Curved as in a pillar, not a ledge) with her shift!",
+  },
 ];
 
 export { JunoFacts };
